@@ -1,4 +1,3 @@
-import './globals.css'
 async function getNews() {
   const res = await fetch('http://localhost:4000/news', {
     next: {
