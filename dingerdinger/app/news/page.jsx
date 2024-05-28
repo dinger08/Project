@@ -1,5 +1,4 @@
 import NewsList from "./NewsList";
-import './globals.css'
 
 export default function News() {
     return (
